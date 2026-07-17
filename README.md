@@ -24,4 +24,4 @@ This is an educational analysis of one specific 1-year window, not investment ad
 Python, yfinance, Pandas, NumPy, Chart.js
 
 ## Dashboard
-[paste your GitHub Pages link here once live]
+https://munna54-8.github.io/nse-sector-risk-dashboard/dashboard/nse_sector_risk_dashboard.html
